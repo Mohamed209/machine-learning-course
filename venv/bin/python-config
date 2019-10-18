@@ -1,4 +1,4 @@
-#!/home/mohamed-mossad/Repos/machine-learning-course/venv/bin/python
+#!/home/mohamed-mossad/Projects/machine-learning-course/venv/bin/python
 
 import sys
 import getopt

@@ -1,4 +1,5 @@
-#!/home/mohamed-mossad/Repos/machine-learning-course/venv/bin/python3
+#!/home/mohamed-mossad/Projects/machine-learning-course/venv/bin/python3.6
+
 # -*- coding: utf-8 -*-
 import re
 import sys
