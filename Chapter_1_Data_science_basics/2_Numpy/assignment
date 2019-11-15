@@ -1,0 +1,33 @@
+1. Write a python function zer_pad(array) which accepts numpy array and add a border (filled with 0's) around the input array
+    Expected Output:
+    Original array:
+    [[ 1. 1. 1.]
+    [ 1. 1. 1.]
+    [ 1. 1. 1.]]
+    1 on the border and 0 inside in the array
+    [[ 0. 0. 0. 0. 0.]
+    [ 0. 1. 1. 1. 0.]
+    [ 0. 1. 1. 1. 0.]
+    [ 0. 1. 1. 1. 0.]
+    [ 0. 0. 0. 0. 0.]]
+
+************************************************************************
+
+2. write python function accepts numpy array as input return two versions of it , first is swapped along first and last row , second is swapped along first and lst column
+
+example 1,2,3
+        4,5,6
+        7,8,9
+        
+function should return
+        7,8,9
+        4,5,6
+        1,2,3
+        
+        and
+        3,2,1
+        6,5,4
+        9,7,8
+
+***********************************************************************
+
