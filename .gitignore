@@ -1,3 +1,5 @@
 venv/
 .idea/
 .ipynb_checkpoints
+.vscode
+demo.py
