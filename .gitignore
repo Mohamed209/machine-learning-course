@@ -2,4 +2,4 @@ venv/
 .idea/
 .ipynb_checkpoints
 .vscode
-demo.py
+Chapter_1_data_science_basics/2_Pandas/assignments_solutions/
