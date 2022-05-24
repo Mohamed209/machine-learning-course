@@ -58,7 +58,7 @@ seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
 sklearn==0.0
-tensorflow==1.15.2
+tensorflow==2.6.4
 terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.3
